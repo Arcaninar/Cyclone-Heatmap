@@ -21,6 +21,10 @@ In total, there are 5 IPython Notebook files:
 * **Cyclone_Heatmap**. Creates an interactive heatmap
 * **Heatmap_to_GIF_timelapse**. Creates a heatmap timelapse by creating HTML files, and converting them to images
 
+And also 2 .txt file:
+* **raw_data**. Data obtained from Japan Meteorological Agency
+* * **heatmap_data**. Cleaned up cyclone data obtained by running **Data_Cleaning** IPython Notebook
+
 ## Heatmap Timelapse Preview
 ![Heatmap Timelapse](https://github.com/Arcaninar/Cyclone-Heatmap/blob/main/Heatmap_Timelapse.gif)
 
