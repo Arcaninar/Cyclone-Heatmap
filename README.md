@@ -10,7 +10,7 @@ This is a project that analyses Japan's Cyclone data from 2000 - 2022. The raw d
 * Heatmaps with interactive widgets
 * Excel files containing statistics of each cyclone
 * Heatmap timelapse in .gif format
-* [Here is the link to directly get the Excel, and Heatmap timelapse instead of running the project](https://drive.google.com/file/d/1OJPuhR_Bd3ArQSHiWITvB9kyM_qpaZgH/view?usp=sharing)
+* [Here is the link to directly get the Excel, and Heatmap timelapse instead of running the project](https://drive.google.com/file/d/1jboZcOn5_wmI16PMNpbnVFu8qCklJ3tq/view?usp=sharing)
 
 ## Project Contents
 
@@ -26,7 +26,7 @@ And also 2 .txt file:
 * * **heatmap_data**. Cleaned up cyclone data obtained by running **Data_Cleaning** IPython Notebook
 
 ## Heatmap Timelapse Preview
-![Heatmap Timelapse](https://github.com/Arcaninar/Cyclone-Heatmap/blob/main/Heatmap_Timelapse.gif)
+![Heatmap Timelapse](https://drive.google.com/file/d/1OGjoiut4HqfFrhyyEctZexJMt1NXk7xK/view?usp=sharing)
 
 ## How to run this project
 1. Clone this project
